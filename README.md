@@ -1,7 +1,7 @@
-*BACA DULU PERINTAH INI GOBLOG <br>
+*BACA DULU PERINTAH INI <br>
 Ngebot Nih Anjir :v gunain sesuka hatimu.... <br>
 Sing Penting Kau Bahagia Selalu dengan defacean mu :* <br>
-Disitu ada script ane > ente ganti pake script deface ente > inde.html
+Disitu ada script ane > ente ganti pake script deface ente > index.html
 
 **Termux:**
 * `pkg install python2`
